@@ -1,5 +1,19 @@
 # 💫 About Me:
-👋 Welcome to my GitHub profile!<br><br>I'm a passionate front-end developer with a strong focus on building engaging and user-friendly web applications. With a deep interest in API usage and a current focus on mastering react-router-dom, I'm constantly pushing myself to expand my skills and stay up-to-date with the latest web development trends.<br><br>In my journey as a developer, I've honed my expertise in HTML and CSS, using them to create visually stunning and responsive user interfaces. I believe that a well-crafted UI is not only aesthetically pleasing but also plays a crucial role in providing a seamless user experience.<br><br>Collaboration and continuous learning are at the core of my development philosophy. I love working with others, leveraging the power of open-source projects, and contributing to the developer community. By sharing my knowledge and learning from fellow developers, I aim to create impactful and innovative solutions.<br><br>If you have any questions about HTML and CSS or need assistance with API integration, feel free to reach out to me. I'm always excited to explore new challenges, collaborate on exciting projects, and share my experiences with fellow developers.<br><br>Let's connect and build the future of web development together! 🚀
+👋 Welcome to my GitHub profile!
+
+I'm a recent graduate in computer engineering, passionate about leveraging technology to solve real-world challenges and create innovative solutions. With a keen interest in a broad range of computer science disciplines, I'm continuously exploring and expanding my skills to stay at the forefront of the ever-evolving tech landscape.
+
+From front-end development to machine learning, I love delving into various aspects of software engineering. I have a solid foundation in Python, which I find incredibly versatile for building robust applications, scripting, and data analysis.
+
+During my academic journey, I've gained valuable experience in database management and SQL, understanding the importance of effective data handling and retrieval for modern applications.
+
+As an enthusiastic learner, I'm currently diving into unsupervised learning techniques, eager to understand how algorithms can uncover patterns and insights in data without explicit labels.
+
+Collaboration and open-source projects hold a special place in my heart. I believe in the power of teamwork and the immense value of sharing knowledge and experiences with fellow developers. Together, we can drive innovation and make a positive impact on the world.
+
+If you have any questions about software development, Python, or need help with unsupervised learning, feel free to reach out. Let's connect, collaborate, and make the most out of technology's potential!
+
+Here's to a future filled with creativity and endless possibilities in computer engineering! 🚀
 
 
 ## 🌐 Socials:
